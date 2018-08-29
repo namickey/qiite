@@ -9,6 +9,7 @@
 
 <ul>
 <li><a href="qiku/index">きく</a></li>
+<li><a href="search/index">検索</a></li>
 </ul>
 
 </body>
