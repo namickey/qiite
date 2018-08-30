@@ -15,13 +15,13 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </head>
   <body>
-    <h1>DEMO APPLICATION!</h1>
-    <h2>by SpringMVC + JPA</h2>
+    <h1 class="display-1">DEMO APPLICATION!</h1>
+    <h2 class="display-3">by SpringMVC + JPA</h2>
     
-    <div class="p-2 mt-4 mb-4 bg-primary text-white">first demo.</div>
+    <div class="p-1 mt-3 mb-3 bg-primary text-white">first demo.</div>
     <a class="btn btn-outline-primary" href="qiku/index" role="button">きく</a>
     
-    <div class="p-2 mt-4 mb-4 bg-primary text-white">second demo.</div>
+    <div class="p-1 mt-3 mb-3 bg-primary text-white">second demo.</div>
     <a class="btn btn-outline-primary" href="search/index" role="button">検索</a>
   </body>
 </html>
